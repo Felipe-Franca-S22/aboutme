@@ -1,6 +1,6 @@
 # Olá! ✋😁
 
-Sou apaixonado por programação desde que meu primeiro Hello Word veio a vida, desde então estudo para entrar no ramo de game design e realizar projetos incríveis e inovadores.
+Gosto de programação desde que meu primeiro Hello Word veio a vida, desde então estudo para entrar no ramo de game design e realizar projetos incríveis e inovadores.
 
 ### 🎓 Sobre minha formação:
 
