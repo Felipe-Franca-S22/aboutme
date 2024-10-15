@@ -11,7 +11,7 @@ Gosto de programação desde que meu primeiro Hello Word veio a vida, desde ent�
 # Conhecimentos
 
 ### 🔧 Ferramentas:
-Unity 2d, Visual Studio, Visual Studio Code, Adobe Dreamweaver, MySQL Server, NetBeans
+Unity 2d, Godot, Visual Studio, Visual Studio Code, Adobe Dreamweaver, MySQL Server, NetBeans
 
 ### 📑 Linguagens:
 Java, Visual Basic, C/C++, C#, PHP. Javascript, SQL
